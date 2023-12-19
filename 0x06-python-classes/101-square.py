@@ -1,4 +1,6 @@
-quare instance
+#!/usr/bin/python3
+"""
+8. Print Square instance
 A class Square that defines a square
 """
 
