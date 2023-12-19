@@ -1,4 +1,6 @@
-ize validation
+#!/usr/bin/python3
+"""
+2. Size validation
 A class Square that defines a square
 """
 
