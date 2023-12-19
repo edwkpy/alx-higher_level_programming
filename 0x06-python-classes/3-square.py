@@ -1,4 +1,6 @@
-rea of a square
+#!/usr/bin/python3
+"""
+3. Area of a square
 A class Square that defines a square
 """
 
