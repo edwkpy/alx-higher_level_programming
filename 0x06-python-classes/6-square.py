@@ -1,4 +1,6 @@
-oordinates of a square
+#!/usr/bin/python3
+"""
+6. Coordinates of a square
 A class Square that defines a square
 """
 
