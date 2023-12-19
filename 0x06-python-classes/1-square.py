@@ -1,4 +1,6 @@
-quare with size
+#!/usr/bin/python3
+"""
+1. Square with size
 A class Square that defines a square
 """
 
