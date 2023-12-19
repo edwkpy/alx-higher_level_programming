@@ -1,4 +1,6 @@
-ccess and update private attribute
+#!/usr/bin/python3
+"""
+4. Access and update private attribute
 A class Square that defines a square
 """
 
