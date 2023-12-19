@@ -1,4 +1,6 @@
-ompare 2 squares
+#!/usr/bin/python3
+"""
+9. Compare 2 squares
 A class Square that defines a square
 """
 
