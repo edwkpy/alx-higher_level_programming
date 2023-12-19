@@ -1,4 +1,6 @@
-ingly linked list
+#!/usr/bin/python3
+"""
+7. Singly linked list
 A class Node that defines a node of a singly linked list
 """
 
