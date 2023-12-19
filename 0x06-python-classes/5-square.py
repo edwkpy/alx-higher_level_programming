@@ -1,4 +1,6 @@
- square
+#!/usr/bin/python3
+"""
+5. Printing a square
 A class Square that defines a square
 """
 
